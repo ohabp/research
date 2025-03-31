@@ -116,5 +116,9 @@ A collection of resources for High Altitude Balloons.
 
 [hab-predictor](https://github.com/KMarshland/hab-predictor)
 
+[ecom](https://gitlab.com/team-aster/software/ecom)
+
+[habmc-tutorials](https://github.com/stanford-ssi/habmc-tutorials/tree/master)
+
 [RS41ng](https://github.com/mikaelnousiainen/RS41ng)
 
