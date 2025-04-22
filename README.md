@@ -4,6 +4,50 @@
 
 A collection of resources for High Altitude Balloons.
 
+### Companies
+
+#### Kaymont
+
+[Kaymont](https://www.kaymont.com/)
+
+#### Weather Scientific
+
+[Weather Scientific](https://weatherscientific.com/collections/weather-balloons)
+
+#### Balloon Ascent Technologies
+
+[Loonatec](https://loonatec.com/)
+
+[bitbucket](https://bitbucket.org/Loonatec/workspace/repositories/)
+
+[bitbucket Loonatec Boards](https://bitbucket.org/Loonatec/loonatec_boards/src/master/)
+
+[bitbucket Woffin](https://bitbucket.org/Loonatec/woffin/src/master/)
+
+#### The Rocketman
+
+[The Rocketman](https://the-rocketman.com/kaymont-weather-balloons/)
+
+#### Hwoyee
+
+[Hwoyee](https://www.hwoyee.com/)
+
+[Hwoyee](https://weatherballoons.net/)
+
+[Amazon](https://www.amazon.com/gp/product/B095S2LLMH?th=1)
+
+#### Launch with Us
+
+[Launch with Us](https://launchwithus.com/)
+
+#### Random Aerospace
+
+[Random Aerospace](https://randomaerospace.com/Random_Aerospace/Balloons.html)
+
+#### Totex
+
+[Totex](https://totex.info/top_e.html)
+
 ### Resources
 
 #### Standford Student Space Initiative (SSI)
